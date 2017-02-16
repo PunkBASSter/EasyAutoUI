@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWD_Training1", "SWD_Training1\SWD_Training1.csproj", "{4FF39275-6CFF-47CB-A1F1-12DDC0B43463}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyAutoUI", "EasyAutoUI\EasyAutoUI.csproj", "{4FF39275-6CFF-47CB-A1F1-12DDC0B43463}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
